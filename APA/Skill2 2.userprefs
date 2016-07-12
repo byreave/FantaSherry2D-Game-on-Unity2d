@@ -1,0 +1,30 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/CWeaponScript.cs">
+    <Files>
+      <File FileName="Assets/scripts/BirdMoveScript.cs" Line="20" Column="2" />
+      <File FileName="Assets/Boxcreat.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/BirdWeaponScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/2D/UIScripts/GameUI.cs" Line="33" Column="49" />
+      <File FileName="Assets/scripts/PlayerScript.cs" Line="24" Column="48" />
+      <File FileName="Assets/scripts/CWeaponScript.cs" Line="30" Column="55" />
+      <File FileName="Assets/scripts/HealthScript.cs" Line="7" Column="21" />
+      <File FileName="Assets/scripts/ShotScript.cs" Line="25" Column="3" />
+      <File FileName="Assets/scripts/WeaponScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/2D/Scripts/Game.cs" Line="36" Column="5" />
+      <File FileName="Assets/Standard Assets/2D/UIScripts/StartUI.cs" Line="19" Column="31" />
+      <File FileName="Assets/Standard Assets/2D/Scripts/Skill2.cs" Line="41" Column="86" />
+      <File FileName="Assets/scripts/SpecialEffectsHelper.cs" Line="1" Column="1" />
+      <File FileName="Assets/DeleteBox.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/2D/Scripts/Footsteps.cs" Line="1" Column="1" />
+      <File FileName="Assets/boardDelete.cs" Line="1" Column="1" />
+      <File FileName="Assets/BoardCreat.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/2D/UIScripts/LoseUI.cs" Line="29" Column="31" />
+      <File FileName="Assets/scripts/Health1Script.cs" Line="31" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
